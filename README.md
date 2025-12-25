@@ -63,6 +63,3 @@ Author
 Oceqv
 Aspiring Junior Malware Analyst
 Python Beginner | Cybersecurity Student
-
-
-You’re doing this the *right* way — keep going 💪
